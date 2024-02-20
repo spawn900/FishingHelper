@@ -51,7 +51,7 @@ function CreateLocalizationInfo()
 	Strings.PluginHelp7 = "/wtf toggle - Fenster anzeigen/ausblenden.\n";
 	Strings.PluginHelp8 = "/wtf options - Zeigt die Optionen an.\n";
 	Strings.PluginHelp9 = "/wtf icon - Symbol anzeigen/ausblenden.\n\n";
-	Strings.PluginHelp10 = "Klicke auf den Namen einer Region, um die Karte der Region zu \195\182ffnen.\n\n";
+	Strings.PluginHelp10 = "Klicke auf den Namen einer Region, um die entsprechende Karte zu \195\182ffnen.\n\n";
 	Strings.PluginHelp11 = "Die Zahl vor dem Fisch gibt das Mindestlevel an, das beim Angeln erforderlich ist, um ihn zu fangen.\n\n";
 	Strings.PluginHelp12 = "Wenn du auf die Zone klickst, wird die Karte der Zone angezeigt.\n\n";
 	Strings.PluginHelp13 = "Wenn du auf den Ortsnamen klickst, wird eine genauere Karte des Standortes des Charakters angezeigt.\n";
